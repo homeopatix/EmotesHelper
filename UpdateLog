@@ -1,1 +1,31 @@
+UPDATE V1.06
+(French)
+Rajout d'une commande toggle
+(English)
+Addition of a toggle command
+(Deutsche)
+Hinzufügen eines Umschaltbefehls
 
+UPDATE V1.05
+(French)
+Rajout d'une ligne de commande pour activer la touche alt pour le deplacement de l'icone
+(English)
+Addition of a command line to activate the alt key for moving the icon
+(Deutsche)
+Hinzufügen einer Befehlszeile zum Aktivieren der Alt-Taste zum Verschieben des Symbols
+
+UPDATE V1.04
+(French)
+Corriger un bug de sauvegarde qui affectait tous mes plugins (maudit, copier-coller)
+(English)
+Fix a backup bug that affected all my plugins (damn, copy and paste)
+(Deutsche)
+Behebung eines Backup-Fehlers, der alle meine Plugins betraf (verdammt, kopieren und einfügen)
+
+UPDATE V1.03
+(French)
+Rajout d'une options pour verrouiller ou deverrouiller les icones
+(English)
+Addition of an option to lock or unlock the icons
+(Deutsche)
+Hinzufügen einer Option zum Sperren oder Entsperren der Symbole
