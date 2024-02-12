@@ -28,38 +28,38 @@ function CreateLocalizationInfo()
 		Strings.PluginAltEnable = "Alt-Taste aktiviert";
 		Strings.PluginAltDesable = "Alt-Taste deaktiviert";
 		Strings.PluginOptionsText = "EmotesHelper Optionen";
-		Strings.PluginDefault = "default die EmotesHelper";
-		Strings.PluginLocked = "Gesperrte Symbole";
-		Strings.PluginUnlocked = "Symbole freigeschaltet";
-		Strings.PluginWindowShow = "Schaufenster.";
-		Strings.PluginWindowHide = "Verstecke das Fenster.";
+		Strings.PluginDefault = "Standard-Emotes eingef\195\188gt";
+		Strings.PluginLocked = "Symbole gesperrt";
+		Strings.PluginUnlocked = "Symbole entsperrt";
+		Strings.PluginWindowShow = "Fenster wird angezeigt";
+		Strings.PluginWindowHide = "Fenster wird ausgeblendet";
 		------------------------------------------------------------------------------------------
 		-- help --
 		------------------------------------------------------------------------------------------
 		Strings.PluginHelp1 = "\n\nListe der Befehle:\n";
-		Strings.PluginHelp2 = "/Emo show - Schaufenster.\n";
-		Strings.PluginHelp3 = "/Emo hide - verstecke das Fenster.\n";
-		Strings.PluginHelp4 = "/Emo options - Zeigen Sie das Optionsfenster an.\n";
-		Strings.PluginHelp5 = "/Emo clear - L\195\182schen Sie alle Verkn\195\188pfungen.\n";
-		Strings.PluginHelp6 = "/Emo default F\195\188lle mit grundlegenden Emotes\n";
-		Strings.PluginHelp7 = "/Emo lock um die Symbole zu sperren oder zu entsperren\n";
-		Strings.PluginHelp8 = "/Emo toggle - Fenster ein-oder ausblenden\n";
-		Strings.PluginHelp9 = "/Emo alt - Aktivieren oder deaktivieren Sie die alt-Taste um das Symbol zu verschieben.\n\n";
-		Strings.PluginHelp10 = "Klicken Sie mit der rechten Maustaste auf das Symbol, um das Optionsfeld anzuzeigen";
+		Strings.PluginHelp2 = "/emo show - Zeigt das Fenster an.\n";
+		Strings.PluginHelp3 = "/emo hide - Blendet das Fenster aus.\n";
+		Strings.PluginHelp4 = "/emo options - Zeigt die Optionen an.\n";
+		Strings.PluginHelp5 = "/emo clear - L\195\182scht alle Verkn\195\188pfungen.\n";
+		Strings.PluginHelp6 = "/emo default - F\195\188gt alle verf\195\188gbaren Standard-Emotes ein.\n";
+		Strings.PluginHelp7 = "/emo lock - Sperrt/entsperrt die Symbole.\n";
+		Strings.PluginHelp8 = "/emo toggle - Fenster anzeigen/ausblenden.\n";
+		Strings.PluginHelp9 = "/emo alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n\n";
+		Strings.PluginHelp10 = "Klicke mit der rechten Maustaste auf das Symbol, um die Optionen anzuzeigen.";
 		------------------------------------------------------------------------------------------
 		-- command text  --
 		------------------------------------------------------------------------------------------
-		Strings.PluginWindowShow = "Schaufenster.";
-		Strings.PluginWindowHide = "verstecke das Fenster.";
-		Strings.PluginWindowClear = "L\195\182schen Sie alle Verkn\195\188pfungen.";
+		Strings.PluginWindowShow = "Fenster wird angezeigt";
+		Strings.PluginWindowHide = "Fenster wird ausgeblendet";
+		Strings.PluginWindowClear = "Alle Verkn\195\188pfungen gel\195\182scht!";
 		------------------------------------------------------------------------------------------
 		-- option window --
 		------------------------------------------------------------------------------------------
 		Strings.PluginOption1 = "Anzahl der Zeilen";
-		Strings.PluginOption2 = "Anzahl der Steckpl\195\164tze pro Zeile";
-		Strings.PluginOption3 = "Schlie\195\159en Sie das Fenster automatisch mit einem Klick auf das Emote";
-		Strings.PluginOption4 = "Auto Schlie\195\159en";
-		Strings.PluginOption10 = "\195\132nderungen validieren";
+		Strings.PluginOption2 = "Anzahl der Spalten";
+		Strings.PluginOption3 = "Ein Klick auf das Emote schlie\195\159t das Fenster automatisch";
+		Strings.PluginOption4 = "Automatisches Schlie\195\159en";
+		Strings.PluginOption10 = "Speichern";
 		------------------------------------------------------------------------------------------
 		-- Français --
 		------------------------------------------------------------------------------------------
