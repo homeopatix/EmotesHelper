@@ -1,3 +1,11 @@
+UPDATE V1.07
+(French)
+Corriger un bogues de gestion des raccourcis quand on en supprimait
+(English)
+Fix a bug in the management of shortcuts when they were deleted
+(Deutsche)
+Behebung eines Fehlers in der Verwaltung von Verknüpfungen, wenn diese gelöscht wurden
+
 UPDATE V1.06
 (French)
 Rajout d'une commande toggle
