@@ -2,15 +2,15 @@
 <img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/1b3f50fe-a4c1-4d38-9215-a1f839d7a76b" />
 
 
-# PlopIamConnected – LOTRO Plugin
+# EmotesHelper – LOTRO Plugin
 
 ![Lua](https://img.shields.io/badge/Lua-Plugin-blue)
 ![LOTRO](https://img.shields.io/badge/Game-LOTRO-darkgreen)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)
 
-AltHolic est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
-PlopIamConnected est un petit plugin pour avoir une vue agrandie de vos amis quand il se connecte
+EmotesHelper est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
+EmotesHelper est un petit plugin pour avoir une vue agrandie de vos amis quand il se connecte
 Entrer le nom des amis que vous souhaiter suivre qui se trouve dans votre liste d'ami
 ou ajouter le nom d'un ami de guilde
 
@@ -36,9 +36,10 @@ ou ajouter le nom d'un ami de guilde
 |--------|------------------|
 | /Plop show	| Montre la fenêtre principale |
 | /Plop hide	| Cache la fenêtre principale |
-| /Plop list	| BAffiche la liste de vos amis |
-| /Plop clearall	| Supprime tous les amis |
-| /Plop clear naomdelami	| Supprime l'ami défini |
+| /Plop clear	| Effacer toutes les entrees |
+| /Plop options	| Affiche la fenetre d'option |
+| /Plop default	| Rempli automatiquement avec les emotes de base |
+| /Plop toggle	| Affiche ou cache la fenetre |
 
 ------------------------------------------------------------------------
 
@@ -46,13 +47,13 @@ ou ajouter le nom d'un ami de guilde
 
 1.  Télécharger le ZIP depuis GitHub ou LOTROInterface.
 2.  Extraire le dossier.
-3.  Copier le dossier `PlopIamConnected` dans :
+3.  Copier le dossier `EmotesHelper` dans :
 
     Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
 4.  En jeu :
     
-    /plugins load plopiamconnected
+    /plugins load emotesHelper
 
 ------------------------------------------------------------------------
 
