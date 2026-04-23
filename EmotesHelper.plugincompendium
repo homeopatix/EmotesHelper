@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1131</Id>
+  <Name>EmotesHelper</Name>
+  <Version>1.09</Version>
+  <Author>Homeopatix</Author>
+ <Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+EmotesHelper est un petit plugin pour avoir un acces rapide a vos Emotes
+Vous pouvez effacer un raccourci avec la mollete de la souris sur le reccourci
+Clique droite sur l'icone pour ouvrir la fenetre d'options
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+EmotesHelper is a small plugin to have quick access to your Emotes
+You can delete a shortcut with the mouse wheel on the shortcut
+Right click on the icon to open the options window
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+EmotesHelper ist ein kleines Plugin, mit dem Sie schnell auf Ihre Emotes zugreifen konnen
+Sie konnen eine Verknupfung mit dem Mausrad auf der Verknupfung loschen
+Sie konnen auf die Schaltflache EmotesHelper klicken, um das Fenster anzuzeigen, oder auf die Schaltflache klicken, um es auszublenden
+Klicken Sie mit der rechten Maustaste auf das Symbol, um das Optionsfenster zu offnen
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(French)
+Raccourci disponible
+/Emo show -- montre la fenetre
+/Emo hide -- cache la fenetre
+/Emo clear -- effacer toutes les entrees
+/Emo options -- affiche la fenetre d'option
+/Emo default -- rempli automatiquement avec les emotes de base
+/Emo lock pour verrouiller ou deverrouiller les icones
+/Emo toggle - affiche ou cache la fenetre
+
+(English)
+Shortcut available
+/Emo show - show the window
+/Emo hide - hide the window
+/Emo clear - clear all entries
+/Emo options -- display the options panel
+/Emo default - automatically populate with basic emotes
+/Emo lock to lock or unlock the icons
+/Emo toggle - display or hide the window
+
+(Deutsche)
+Verknupfung verfugbar
+/Emo show - zeige das Fenster
+/Emo Hide - Verstecke das Fenster
+/Emo clear - Alle Eintrage loschen
+/Emo options -- Zeigen Sie das Optionsfeld an
+/Emo default - fulle automatisch mit allen Grundlegenden Emotes
+/Emo lock um die Symbole zu sperren oder zu entsperren
+/Emo toggle - Fenster ein-oder ausblenden
+</Description>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info1131</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download1131</DownloadUrl>
+  <Descriptors>
+    <descriptor>Homeopatix\EmotesHelper.plugin</descriptor>
+  </Descriptors>
+</PluginConfig>
